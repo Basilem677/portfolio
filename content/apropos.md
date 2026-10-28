@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en **[nom du programme]** à l'**UNIL**, avec un intérêt particulier pour **[domaine principal / spécialisation]**.
+Je suis un étudiant de 3ème année en bachelor en **Géologie** à l'**UNIL**, avec un intérêt particulier pour **la modélisation numérique, les mathématiques, et l'exploration planétaire.**.
