@@ -1,4 +1,4 @@
-## À propos
+# À propos
 
 ```{image} ./img/IMG_1397.jpeg
 :alt: Photo de profil
