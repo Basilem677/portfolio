@@ -19,7 +19,7 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-|TECTGEOD-3|Travaux pratiques de programmation et résolution d'équations durant le semestre|  |Codes Pythons divers|
+|TECTGEOD-3|Travaux pratiques de programmation et résolution d'équations durant le semestre|J'ai conservé mes codes Python afin de pouvoir revoir mon raisonnement et mieux comprendre les étapes suivies pour résoudre les problèmes.|Codes Pythons divers|
 |GEOINFII-1| Travaux pratiques QGIS + Python sur des données diverses|  |Fichiers de projet Qgis et codes Pythons divers|
 |CAMPSTRASEDI-3| Camp de terrain de deux semaines en Espagne, observations, dessins et interprétations géologiques|  |Rapport de terrain sous forme numérique|
 |Xplore EPFL Science Task |Membre de la Science Task ERC26 et proposition d'une hypothèse géologique appliquée à un terrain martien simulé.  |  |Carte géologique, rapport scientifique|
