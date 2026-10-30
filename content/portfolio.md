@@ -9,7 +9,7 @@
 1. TECTGEOD-2 - Appliquer des concepts thermiques/méchaniques à la lithosphère.
 2. TECTGEOD-3 - Résoudre un problème tectonique par la programmation.
 3. GEOINFII-1 - Automatiser des géotraitements : code et SIG.
-4. CAMPPETRMAGM-2 - Relier observation de terrain et processus magmatiques.
+4. CAMPSTRASEDI-3 - Documenter les observations et interprétations de terrain sur plusieurs jours.
 5. Xplore EPFL Science Task - Gagnants de la compétition European Rover Challenge 2026.
 
 ---
@@ -21,7 +21,7 @@
 |---|---|---|---|
 |TECTGEOD-3|Travaux pratiques de programmation et résolution d'équations durant le semestre|  |Codes Pythons divers|
 |GEOINFII-1| Travaux pratiques QGIS + Python sur des données diverses|  |Fichiers de projet Qgis et codes Pythons divers|
-|CAMPPETRMAGM-2| Camp de terrain de deux semaines en Sardeigne, observations, dessins et interprétations géologiques|  |Rapport de Terrain, fourni au professeur Müntener |
+|CAMPSTRASEDI-3| Camp de terrain de deux semaines en Espagne, observations, dessins et interprétations géologiques|  |Rapport de terrain sous forme numérique|
 |Xplore EPFL Science Task |Membre de la Science Task ERC26 et proposition d'une hypothèse géologique appliquée à un terrain martien simulé.  |  |Carte géologique, rapport scientifique|
 ---
 
