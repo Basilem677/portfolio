@@ -19,7 +19,7 @@ site:
     folders: true
     hide_footer_links: true
     # favicon: favicon.ico
-    logo: content/other/logo.png
+    logo: content/other/home.svg
     logo_text: "Basile Meichtry"
   nav: []
   parts: 
