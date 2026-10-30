@@ -4,3 +4,13 @@
   height: 28px !important;
   object-fit: contain;
 }
+
+/* Logo blanc en thème sombre */
+html[data-theme="dark"] .navbar-brand img {
+  filter: brightness(0) invert(1);
+}
+
+/* Logo bleu foncé en thème clair */
+html[data-theme="light"] .navbar-brand img {
+  filter: brightness(0);
+}
