@@ -20,7 +20,7 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 |  |  |  |
+|TECTGEOD-3|Travaux pratiques de programmation durant le semestre|  |Codes Pythons divers|
 | Compétence 2  |  |  |  |
 |  Compétence 3 |  |  |  |
 |  Compétence 4 (hors cursus) |  |  |  |
