@@ -1,20 +1,16 @@
 # Portfolio de compétences
 
-**Orientation :**
+**Orientation : Géologie**
 
-[Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
-
----
 
 ## 1. Cinq compétences que je reconnais avoir travaillées
 
-*Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. TECTGEOD-2 - Appliquer des concepts thermiques/méchaniques à la lithosphère.
+2. TECTGEOD-3 - Résoudre un problème tectonique par la programmation.
+3. GEOINFII-1 - Automatiser des géotraitements : code et SIG.
+4. CAMPPETRMAGM-2 - Relier observation de terrain et processus magmatiques.
+5. Xplore EPFL Science Task - Gagnants de la compétition European Rover Challenge 2026.
 
 ---
 
