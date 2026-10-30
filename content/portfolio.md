@@ -23,7 +23,7 @@
 |TECTGEOD-3|Travaux pratiques de programmation durant le semestre|  |Codes Pythons divers|
 | Compétence 2  |  |  |  |
 |  Compétence 3 |  |  |  |
-|  Compétence 4 (hors cursus) |  |  |  |
+|Xplore EPFL Science Task |Membre de la Science Task ERC26 et proposition d'une hypothèse géologique appliquée à un terrain martien simulé.  |  |Carte géologique, rapport scientifique|
 ---
 
 *Arbre des connaissances, état au 21 octobre 2026 · [gse-sondage.unil.ch/quiz-rentree-fgse/arbre/](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)*
