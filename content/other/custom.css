@@ -1,18 +1,6 @@
-/* Taille et alignement du logo Cosmos */
+/* Taille du logo */
 .navbar-brand img {
   width: 28px !important;
   height: 28px !important;
   object-fit: contain;
-}
-
-/* Thème clair : logo bleu foncé */
-html[data-theme="light"] .navbar-brand img,
-html.light .navbar-brand img {
-  content: url("logo-cosmos-bleu-fonce.png");
-}
-
-/* Thème sombre : logo blanc */
-html[data-theme="dark"] .navbar-brand img,
-html.dark .navbar-brand img {
-  content: url("logo-cosmos-blanc.png");
 }
