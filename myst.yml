@@ -19,6 +19,7 @@ site:
     folders: true
     hide_footer_links: true
     logo: content/other/logo-cosmos-bleu-fonce.png
+    logo_dark: content/other/logo-cosmos-blanc.png
     logo_text: "Basile Meichtry"
     style: content/other/custom.css
   nav: []
