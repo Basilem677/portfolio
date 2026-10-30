@@ -3,7 +3,7 @@
 **Orientation : Géologie**
 
 
-## 1. Cinq compétences que je reconnais avoir travaillées
+## 1. Compétences développées
 
 
 1. TECTGEOD-2 - Appliquer des concepts thermiques/méchaniques à la lithosphère.
@@ -14,9 +14,8 @@
 
 ---
 
-## 2. Trois de ces cinq, avec leur preuve
+## 2. Mise en pratique et preuves des compétences
 
-*Une ligne par preuve. La dernière colonne est la plus importante : peux-tu rouvrir cette preuve en deux minutes ?*
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
