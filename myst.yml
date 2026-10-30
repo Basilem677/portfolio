@@ -18,10 +18,10 @@ site:
   options:
     folders: true
     hide_footer_links: true
-    # favicon: favicon.ico
-    logo: content/other/home.svg
-    logo_text: "Basile Meichtry"
+    logo: content/other/logo-cosmos-bleu-fonce.png
+    logo_text: ""
+    style: content/other/custom.css
   nav: []
-  parts: 
+  parts:
     footer: []
     primary_sidebar_footer: content/other/primary-sidebar-footer.md
