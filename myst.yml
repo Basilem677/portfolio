@@ -11,7 +11,7 @@ project:
     - file: content/apropos.md
     - file: content/portfolio.md
     - file: content/rapport_final.md
-    - file: content/Meichtry_Basile_Notebook_maitrev1.1.ipynb
+    - file: content/Meichtry_Basile_Notebook_maitrev1.2.ipynb
     
 site:
   template: book-theme
